@@ -15,7 +15,6 @@ public class DemoSession1 {
         } else {
             System.out.println("Vui lòng nhập số phần tử mảng > 0");
         }
-
     }
 
     //hien thi ket qua
@@ -49,4 +48,8 @@ public class DemoSession1 {
             }
             return true;
     }
+
+    // btvn: 1. nhập số nguyên, kiểm tra có phải là số hoàn hảo hay không
+    // 2. sô nguyên n , tìm số có vị trí thứ n của dãy fibonacci
+    //3. nhận 2 số nguyên n , tìm ước chung lớn nhất  bội chung nhỏ nhát
 }
