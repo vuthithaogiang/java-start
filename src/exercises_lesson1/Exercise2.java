@@ -9,7 +9,7 @@ public class Exercise2 {
         var a = input.nextInt();
         var b = input.nextInt();
         var cm = a * b; // common multiple = BC
-        // có nhiều cách tìm ước chung lớn nhất, sau đây trình bày cách đơn giản
+
         while (a != b) {
             if (a > b) {
                 a -= b;
